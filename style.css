@@ -1,0 +1,56 @@
+html{
+    background-color: blueviolet;
+}
+
+header {
+    border-width: 10px, 10px, 10px, 10px;
+    border-color: orange;
+    background-color: darkolivegreen;
+    text-align: center;
+    color: lightseagreen;
+    height: 50px;
+}
+
+h1{
+    font-size: xx-large;
+}
+
+.box {
+    width: 250px;
+    height: 250px;
+    border-color: yellow;
+    border-width: 200px;
+    margin: 200px;
+    align-content: left;
+    padding: 50px;
+}
+
+#main-bio{
+    border-width: 10px;
+    padding: 10px, 10px, 10px, 10px;
+    border-color: blue;
+    background-color: white;
+    font-size: medium;
+    color: darkkhaki;
+}
+
+p{
+    text-shadow: 50;
+}
+
+#contact-info{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+    border-color: pink;
+    align-content: right;
+}
+
+
+a{
+    color: hotpink;    
+}
+
+li{
+    color: green;
+}
